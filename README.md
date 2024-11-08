@@ -23,6 +23,6 @@
 .Then press each 5 mm of ruler to calibrate our view.
 ## 6- After calibration process you can run AUTO-MODE by pressing "A". Here is the video for showing how auto mode and playing with Threshold works:
 #### To change Threshold values you can press "T" in AUTO-MODE, then the value will be change with your mouse moving event, also for apply the changes you need to press "mouse-left-click", for ignore setting needs to press "mouse-right-click".
-
+https://github.com/user-attachments/assets/4cc50cd5-4021-4581-b5fb-0f241ab58ced
 ### NOTE: the background and distance of camera must be static and stabled. For better response use lights to remove shadow of the objects.
 ### Database: on camruler_config.csv the options and data will be saved.
